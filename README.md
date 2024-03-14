@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: ... He/Him
 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulstsk&label=Profile%20views&color=0e75b6&style=flat" alt="gokulstsk" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulstsk&" alt="gokulstsk" /></p>
